@@ -1,6 +1,7 @@
 ﻿# Chicago_Crime_Conclusions
 
 Chicago Crime and Community Education over the Past Decade
+
 Team Members: Nathaniel Al-Najjar, Cindy Wagner, Stephanie Hidalgo
 
 
